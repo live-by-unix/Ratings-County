@@ -1,0 +1,1381 @@
+[
+  {
+    "name": "Algeria",
+    "cca2": "DZ",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Angola",
+    "cca2": "AO",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Benin",
+    "cca2": "BJ",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Botswana",
+    "cca2": "BW",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Burkina Faso",
+    "cca2": "BF",
+    "continent": "Africa",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Burundi",
+    "cca2": "BI",
+    "continent": "Africa",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Cabo Verde",
+    "cca2": "CV",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Cameroon",
+    "cca2": "CM",
+    "continent": "Africa",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Central African Republic",
+    "cca2": "CF",
+    "continent": "Africa",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Chad",
+    "cca2": "TD",
+    "continent": "Africa",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Comoros",
+    "cca2": "KM",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "cca2": "CD",
+    "continent": "Africa",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Republic of the Congo",
+    "cca2": "CG",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Djibouti",
+    "cca2": "DJ",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Egypt",
+    "cca2": "EG",
+    "continent": "Africa",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "cca2": "GQ",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Eritrea",
+    "cca2": "ER",
+    "continent": "Africa",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Eswatini",
+    "cca2": "SZ",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Ethiopia",
+    "cca2": "ET",
+    "continent": "Africa",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Gabon",
+    "cca2": "GA",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Gambia",
+    "cca2": "GM",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Ghana",
+    "cca2": "GH",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Guinea",
+    "cca2": "GN",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "cca2": "GW",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Ivory Coast",
+    "cca2": "CI",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Kenya",
+    "cca2": "KE",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Lesotho",
+    "cca2": "LS",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Liberia",
+    "cca2": "LR",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Libya",
+    "cca2": "LY",
+    "continent": "Africa",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Madagascar",
+    "cca2": "MG",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Malawi",
+    "cca2": "MW",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Mali",
+    "cca2": "ML",
+    "continent": "Africa",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Mauritania",
+    "cca2": "MR",
+    "continent": "Africa",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Mauritius",
+    "cca2": "MU",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Morocco",
+    "cca2": "MA",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Mozambique",
+    "cca2": "MZ",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Namibia",
+    "cca2": "NA",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Niger",
+    "cca2": "NE",
+    "continent": "Africa",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Nigeria",
+    "cca2": "NG",
+    "continent": "Africa",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Rwanda",
+    "cca2": "RW",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "cca2": "ST",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Senegal",
+    "cca2": "SN",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Seychelles",
+    "cca2": "SC",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Sierra Leone",
+    "cca2": "SL",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Somalia",
+    "cca2": "SO",
+    "continent": "Africa",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "South Africa",
+    "cca2": "ZA",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "South Sudan",
+    "cca2": "SS",
+    "continent": "Africa",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Sudan",
+    "cca2": "SD",
+    "continent": "Africa",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Tanzania",
+    "cca2": "TZ",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Togo",
+    "cca2": "TG",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Tunisia",
+    "cca2": "TN",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Uganda",
+    "cca2": "UG",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Zambia",
+    "cca2": "ZM",
+    "continent": "Africa",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Zimbabwe",
+    "cca2": "ZW",
+    "continent": "Africa",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Afghanistan",
+    "cca2": "AF",
+    "continent": "Asia",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Armenia",
+    "cca2": "AM",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Azerbaijan",
+    "cca2": "AZ",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Bahrain",
+    "cca2": "BH",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Bangladesh",
+    "cca2": "BD",
+    "continent": "Asia",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Bhutan",
+    "cca2": "BT",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Brunei",
+    "cca2": "BN",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Cambodia",
+    "cca2": "KH",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "China",
+    "cca2": "CN",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Cyprus",
+    "cca2": "CY",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Georgia",
+    "cca2": "GE",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "India",
+    "cca2": "IN",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Indonesia",
+    "cca2": "ID",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Iran",
+    "cca2": "IR",
+    "continent": "Asia",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Iraq",
+    "cca2": "IQ",
+    "continent": "Asia",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Israel",
+    "cca2": "IL",
+    "continent": "Asia",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Japan",
+    "cca2": "JP",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Jordan",
+    "cca2": "JO",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Kazakhstan",
+    "cca2": "KZ",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Kuwait",
+    "cca2": "KW",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "cca2": "KG",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Laos",
+    "cca2": "LA",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Lebanon",
+    "cca2": "LB",
+    "continent": "Asia",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Malaysia",
+    "cca2": "MY",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Maldives",
+    "cca2": "MV",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Mongolia",
+    "cca2": "MN",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Myanmar",
+    "cca2": "MM",
+    "continent": "Asia",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Nepal",
+    "cca2": "NP",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "North Korea",
+    "cca2": "KP",
+    "continent": "Asia",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Oman",
+    "cca2": "OM",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Pakistan",
+    "cca2": "PK",
+    "continent": "Asia",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Palestine",
+    "cca2": "PS",
+    "continent": "Asia",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Philippines",
+    "cca2": "PH",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Qatar",
+    "cca2": "QA",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Saudi Arabia",
+    "cca2": "SA",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Singapore",
+    "cca2": "SG",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "South Korea",
+    "cca2": "KR",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Sri Lanka",
+    "cca2": "LK",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Syria",
+    "cca2": "SY",
+    "continent": "Asia",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Taiwan",
+    "cca2": "TW",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Tajikistan",
+    "cca2": "TJ",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Thailand",
+    "cca2": "TH",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Timor-Leste",
+    "cca2": "TL",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Turkey",
+    "cca2": "TR",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Turkmenistan",
+    "cca2": "TM",
+    "continent": "Asia",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "United Arab Emirates",
+    "cca2": "AE",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Uzbekistan",
+    "cca2": "UZ",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Vietnam",
+    "cca2": "VN",
+    "continent": "Asia",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Yemen",
+    "cca2": "YE",
+    "continent": "Asia",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Albania",
+    "cca2": "AL",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Andorra",
+    "cca2": "AD",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Austria",
+    "cca2": "AT",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Belarus",
+    "cca2": "BY",
+    "continent": "Europe",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Belgium",
+    "cca2": "BE",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "cca2": "BA",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Bulgaria",
+    "cca2": "BG",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Croatia",
+    "cca2": "HR",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Czech Republic",
+    "cca2": "CZ",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Denmark",
+    "cca2": "DK",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Estonia",
+    "cca2": "EE",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Finland",
+    "cca2": "FI",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "France",
+    "cca2": "FR",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Germany",
+    "cca2": "DE",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Greece",
+    "cca2": "GR",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Hungary",
+    "cca2": "HU",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Iceland",
+    "cca2": "IS",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Ireland",
+    "cca2": "IE",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Italy",
+    "cca2": "IT",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Kosovo",
+    "cca2": "XK",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Latvia",
+    "cca2": "LV",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Liechtenstein",
+    "cca2": "LI",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Lithuania",
+    "cca2": "LT",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Luxembourg",
+    "cca2": "LU",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Malta",
+    "cca2": "MT",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Moldova",
+    "cca2": "MD",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Monaco",
+    "cca2": "MC",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Montenegro",
+    "cca2": "ME",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Netherlands",
+    "cca2": "NL",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "North Macedonia",
+    "cca2": "MK",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Norway",
+    "cca2": "NO",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Poland",
+    "cca2": "PL",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Portugal",
+    "cca2": "PT",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Romania",
+    "cca2": "RO",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Russia",
+    "cca2": "RU",
+    "continent": "Europe",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "San Marino",
+    "cca2": "SM",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Serbia",
+    "cca2": "RS",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Slovakia",
+    "cca2": "SK",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Slovenia",
+    "cca2": "SI",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Spain",
+    "cca2": "ES",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Sweden",
+    "cca2": "SE",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Switzerland",
+    "cca2": "CH",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Ukraine",
+    "cca2": "UA",
+    "continent": "Europe",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "United Kingdom",
+    "cca2": "GB",
+    "continent": "Europe",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Vatican City",
+    "cca2": "VA",
+    "continent": "Europe",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "cca2": "AG",
+    "continent": "North America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Bahamas",
+    "cca2": "BS",
+    "continent": "North America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Barbados",
+    "cca2": "BB",
+    "continent": "North America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Belize",
+    "cca2": "BZ",
+    "continent": "North America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Canada",
+    "cca2": "CA",
+    "continent": "North America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Costa Rica",
+    "cca2": "CR",
+    "continent": "North America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Cuba",
+    "cca2": "CU",
+    "continent": "North America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Dominica",
+    "cca2": "DM",
+    "continent": "North America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Dominican Republic",
+    "cca2": "DO",
+    "continent": "North America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "El Salvador",
+    "cca2": "SV",
+    "continent": "North America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Grenada",
+    "cca2": "GD",
+    "continent": "North America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Guatemala",
+    "cca2": "GT",
+    "continent": "North America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Haiti",
+    "cca2": "HT",
+    "continent": "North America",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Honduras",
+    "cca2": "HN",
+    "continent": "North America",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Jamaica",
+    "cca2": "JM",
+    "continent": "North America",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Mexico",
+    "cca2": "MX",
+    "continent": "North America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Nicaragua",
+    "cca2": "NI",
+    "continent": "North America",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Panama",
+    "cca2": "PA",
+    "continent": "North America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "cca2": "KN",
+    "continent": "North America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Saint Lucia",
+    "cca2": "LC",
+    "continent": "North America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "cca2": "VC",
+    "continent": "North America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "cca2": "TT",
+    "continent": "North America",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "United States",
+    "cca2": "US",
+    "continent": "North America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Argentina",
+    "cca2": "AR",
+    "continent": "South America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Bolivia",
+    "cca2": "BO",
+    "continent": "South America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Brazil",
+    "cca2": "BR",
+    "continent": "South America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Chile",
+    "cca2": "CL",
+    "continent": "South America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Colombia",
+    "cca2": "CO",
+    "continent": "South America",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Ecuador",
+    "cca2": "EC",
+    "continent": "South America",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Guyana",
+    "cca2": "GY",
+    "continent": "South America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Paraguay",
+    "cca2": "PY",
+    "continent": "South America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Peru",
+    "cca2": "PE",
+    "continent": "South America",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Suriname",
+    "cca2": "SR",
+    "continent": "South America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Uruguay",
+    "cca2": "UY",
+    "continent": "South America",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Venezuela",
+    "cca2": "VE",
+    "continent": "South America",
+    "safety_score": 4,
+    "safety_text": "Do Not Travel"
+  },
+  {
+    "name": "Australia",
+    "cca2": "AU",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Fiji",
+    "cca2": "FJ",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Kiribati",
+    "cca2": "KI",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Marshall Islands",
+    "cca2": "MH",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Micronesia",
+    "cca2": "FM",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Nauru",
+    "cca2": "NR",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "New Zealand",
+    "cca2": "NZ",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Palau",
+    "cca2": "PW",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Papua New Guinea",
+    "cca2": "PG",
+    "continent": "Oceania",
+    "safety_score": 3,
+    "safety_text": "Reconsider Travel"
+  },
+  {
+    "name": "Samoa",
+    "cca2": "WS",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Solomon Islands",
+    "cca2": "SB",
+    "continent": "Oceania",
+    "safety_score": 2,
+    "safety_text": "Increased Caution"
+  },
+  {
+    "name": "Tonga",
+    "cca2": "TO",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Tuvalu",
+    "cca2": "TV",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  },
+  {
+    "name": "Vanuatu",
+    "cca2": "VU",
+    "continent": "Oceania",
+    "safety_score": 1,
+    "safety_text": "Normal Precautions"
+  }
+]
